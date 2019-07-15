@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12d3af18-f826-4643-9bc3-d7d9d01ee7f5" name="Default Changelist" comment="" />
+    <list default="true" id="12d3af18-f826-4643-9bc3-d7d9d01ee7f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/interface/templates/interface/Pictures_Save.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceDetectServer/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceDetectServer/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,14 +19,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/interface/admin.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/templates/interface/Pictures_Save.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="626">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="73">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-459">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding>
-                <element signature="e#0#32#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <folding>
+                <element signature="e#92#120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FaceDetectServer/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -41,65 +77,66 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FaceDetectServer/settings.py" />
         <option value="$PROJECT_DIR$/interface/templates/qrcode.html" />
-        <option value="$PROJECT_DIR$/interface/urls.py" />
         <option value="$PROJECT_DIR$/FaceDetectServer/urls.py" />
         <option value="$PROJECT_DIR$/interface/statics/qrcode_imgs/qrcode_generate.py" />
-        <option value="$PROJECT_DIR$/interface/views.py" />
         <option value="$PROJECT_DIR$/interface/templates/interface/qrcode.html" />
         <option value="$PROJECT_DIR$/interface/models.py" />
         <option value="$PROJECT_DIR$/interface/admin.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/interface/urls.py" />
+        <option value="$PROJECT_DIR$/interface/views.py" />
+        <option value="$PROJECT_DIR$/FaceDetectServer/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="242" />
+    <option name="x" value="466" />
     <option name="y" value="37" />
     <option name="width" value="1390" />
     <option name="height" value="1013" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
-              <item name="FaceDetectServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceDetectServer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\GitHub\FaceDetectServer" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="FaceDetectServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceDetectServer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\GitHub\FaceDetectServer" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="FaceDetectServer" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="FaceDetectServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceDetectServer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\GitHub\FaceDetectServer" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="interface" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="FaceDetectServer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
-              <item name="interface" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceDetectServer" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="F:\GitHub\FaceDetectServer" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="interface" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/interface/templates/interface" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -108,6 +145,9 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GitHub\FaceDetectServer\interface\templates\interface" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Code\Python\FaceDetectServer" />
       <recent name="E:\Code\Python\FaceDetectServer\interface\templates\interface" />
@@ -236,15 +276,15 @@
       <option name="presentableId" value="Default" />
       <updated>1563090379606</updated>
       <workItem from="1563090382760" duration="6504000" />
-      <workItem from="1563174353671" duration="11849000" />
+      <workItem from="1563174353671" duration="13635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18353000" />
+    <option name="totallyTimeSpent" value="20139000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="194" y="30" width="1112" height="810" extended-state="1" />
+    <frame x="373" y="30" width="1112" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2523719" />
@@ -288,14 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FaceDetectServer/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -316,27 +348,10 @@
     <entry file="file://$PROJECT_DIR$/interface/static/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/FaceDetectServer/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/interface/templates/interface/qrcode.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="e#92#120#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -350,23 +365,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="27">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/templates/interface/Pictures_Save.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="e#92#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/interface/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="-459">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/admin.py">
+    <entry file="file://$PROJECT_DIR$/FaceDetectServer/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="626">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
         </state>
       </provider>
     </entry>
