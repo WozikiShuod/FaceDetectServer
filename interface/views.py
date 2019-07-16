@@ -1,14 +1,16 @@
 from django.shortcuts import render
 from django.conf import settings
 import os
+
+
 # Create your views here.
 def index(request):
-    pics=[]
+    pics = []
     for img in os.listdir('./interface/static'):
         if img.endswith('png'):
-            pics.append('/static/'+img)
-    context={}
-    context['main']=pics
+            pics.append('/static/' + img)
+    context = {}
+    context['main'] = pics
     return render(request, 'interface/qrcode.html', context=context)
 
 

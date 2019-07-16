@@ -2,10 +2,217 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12d3af18-f826-4643-9bc3-d7d9d01ee7f5" name="Default Changelist" comment="">
+
       <change afterPath="$PROJECT_DIR$/interface/templates/interface/Pictures_Save.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FaceDetectServer/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaceDetectServer/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/interface/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/urls.py" afterDir="false" />
+    <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.87.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.93.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceDetect/Process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceDetect/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/InfoGenerate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interface/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/models.py" afterDir="false" />
+
       <change beforePath="$PROJECT_DIR$/interface/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +225,66 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
+
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/templates/interface/Pictures_Save.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="73">
               <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/SoftWare/Anaconda/Lib/site-packages/django/db/models/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/InfoGenerate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="118" selection-start-line="118" selection-end-line="118" />
+              <folding>
+                <element signature="e#100#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceDetect/Process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataSet/MODELS/Stu_20164859.yml">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="124">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+
             </state>
           </provider>
         </entry>
@@ -31,8 +292,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/views.py">
           <provider selected="true" editor-type-id="text-editor">
+
             <state relative-caret-position="-459">
               <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+=======
+            <state relative-caret-position="186">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -43,8 +309,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface/urls.py">
           <provider selected="true" editor-type-id="text-editor">
+
             <state relative-caret-position="135">
               <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+=======
+            <state relative-caret-position="527">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+
               <folding>
                 <element signature="e#92#120#0" expanded="true" />
               </folding>
@@ -52,11 +323,28 @@
           </provider>
         </entry>
       </file>
+
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FaceDetectServer/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface/templates/interface/qrcode.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FaceDetectServer/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1023">
+              <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+
             </state>
           </provider>
         </entry>
@@ -67,6 +355,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
@@ -77,10 +366,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+
+
+        <option value="$PROJECT_DIR$/FaceDetectServer/settings.py" />
+        <option value="$PROJECT_DIR$/interface/admin.py" />
+
         <option value="$PROJECT_DIR$/interface/templates/qrcode.html" />
         <option value="$PROJECT_DIR$/FaceDetectServer/urls.py" />
         <option value="$PROJECT_DIR$/interface/statics/qrcode_imgs/qrcode_generate.py" />
         <option value="$PROJECT_DIR$/interface/templates/interface/qrcode.html" />
+
         <option value="$PROJECT_DIR$/interface/models.py" />
         <option value="$PROJECT_DIR$/interface/admin.py" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -93,6 +388,21 @@
   <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="466" />
     <option name="y" value="37" />
+
+        <option value="$PROJECT_DIR$/interface/util/NameGenerate.py" />
+        <option value="$PROJECT_DIR$/interface/views.py" />
+        <option value="$PROJECT_DIR$/interface/util/InfoGenerate.py" />
+        <option value="$PROJECT_DIR$/interface/models.py" />
+        <option value="$PROJECT_DIR$/interface/InfoGenerate.py" />
+        <option value="$PROJECT_DIR$/FaceDetect/Process.ipynb" />
+        <option value="$PROJECT_DIR$/FaceDetect/Process.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="473" />
+    <option name="y" value="162" />
+
     <option name="width" value="1390" />
     <option name="height" value="1013" />
   </component>
@@ -126,6 +436,28 @@
               <item name="interface" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="templates" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="FaceDetectServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
+              <item name="DataSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceDetectServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
+              <item name="DataSet" type="462c0819:PsiDirectoryNode" />
+              <item name="MODELS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceDetectServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
+              <item name="DataSet" type="462c0819:PsiDirectoryNode" />
+              <item name="PICS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceDetectServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceDetectServer" type="462c0819:PsiDirectoryNode" />
+              <item name="FaceDetect" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -136,23 +468,30 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+
     <property name="last_opened_file_path" value="$PROJECT_DIR$/interface/templates/interface" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataSet/PICS" />
+
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\GitHub\FaceDetectServer\interface\templates\interface" />
+    <key name="CopyFile.RECENT_KEYS">    <recent name="F:\GitHub\FaceDetectServer\interface\templates\interface" />
+=======
+      <recent name="E:\Code\Python\FaceDetectServer\DataSet\PICS" />
+
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\Python\FaceDetectServer\interface" />
+      <recent name="E:\Code\Python\FaceDetectServer\interface\util" />
       <recent name="E:\Code\Python\FaceDetectServer" />
       <recent name="E:\Code\Python\FaceDetectServer\interface\templates\interface" />
       <recent name="E:\Code\Python\FaceDetectServer\interface\statics" />
-      <recent name="E:\Code\Python\FaceDetectServer\interface\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -167,8 +506,57 @@
       </list>
     </option>
   </component>
+
   <component name="RunManager" selected="Python.admin">
     <configuration name="admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.Process">
+    <configuration name="InfoGenerate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetectServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface/util" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Code\Python\FaceDetectServer\interface\InfoGenerate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetectServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FaceDetect" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FaceDetect/Process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+
       <module name="FaceDetectServer" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,7 +569,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/admin.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface/models.py" />
+
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +651,13 @@
     </configuration>
     <recent_temporary>
       <list>
+
         <item itemvalue="Python.admin" />
+=======
+        <item itemvalue="Python.Process" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.InfoGenerate" />
+
         <item itemvalue="Python.views" />
         <item itemvalue="Python.qrcode_generate" />
       </list>
@@ -275,12 +673,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563090379606</updated>
+
       <workItem from="1563090382760" duration="6504000" />
       <workItem from="1563174353671" duration="13635000" />
+=======
+      <workItem from="1563090382760" duration="12681000" />
+      <workItem from="1563163721408" duration="5067000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+
     <option name="totallyTimeSpent" value="20139000" />
   </component>
   <component name="ToolWindowManager">
@@ -288,11 +692,24 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2523719" />
+=======
+    <option name="totallyTimeSpent" value="17748000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
+
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49905124" visible="true" weight="0.34070796" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32846716" />
+
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -301,9 +718,15 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
+
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5009488" side_tool="true" visible="true" weight="0.34070796" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49932975" weight="0.30878186" />
       <window_info anchor="bottom" id="Python Console" order="13" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.30948904" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.329927" />
+
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -315,9 +738,17 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+
     <SUITE FILE_PATH="coverage/FaceDetectServer$qrcode_generate.coverage" NAME="qrcode_generate Coverage Results" MODIFIED="1563095125757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/statics/qrcode_imgs" />
     <SUITE FILE_PATH="coverage/FaceDetectServer$views.coverage" NAME="views Coverage Results" MODIFIED="1563096121743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
     <SUITE FILE_PATH="coverage/FaceDetectServer$admin.coverage" NAME="admin Coverage Results" MODIFIED="1563188590417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+=======
+    <SUITE FILE_PATH="coverage/FaceDetectServer$models.coverage" NAME="models Coverage Results" MODIFIED="1563108508127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/FaceDetectServer$views.coverage" NAME="views Coverage Results" MODIFIED="1563096121743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface" />
+    <SUITE FILE_PATH="coverage/FaceDetectServer$InfoGenerate.coverage" NAME="InfoGenerate Coverage Results" MODIFIED="1563108080352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/util" />
+    <SUITE FILE_PATH="coverage/FaceDetectServer$qrcode_generate.coverage" NAME="qrcode_generate Coverage Results" MODIFIED="1563095125757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interface/statics/qrcode_imgs" />
+    <SUITE FILE_PATH="coverage/FaceDetectServer$Process.coverage" NAME="Process Coverage Results" MODIFIED="1563194677929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FaceDetect" />
+
   </component>
   <component name="editorHistoryManager">
     <entry file="file://D:/SoftWare/Anaconda/Lib/site-packages/django/db/models/deletion.py" />
@@ -338,6 +769,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interface/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#92#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/static/qrcode_generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SoftWare/Anaconda/Lib/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="1097" column="29" selection-start-line="1097" selection-start-column="29" selection-end-line="1097" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -345,6 +800,7 @@
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/interface/static/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -372,21 +828,78 @@
             <caret line="1" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/interface/util/__init__.py" />
+    <entry file="file://D:/SoftWare/Anaconda/Lib/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-978">
+          <caret line="3295" selection-start-line="3295" selection-end-line="3295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="42" column="12" selection-start-line="37" selection-start-column="4" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/SoftWare/Anaconda/Lib/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/interface/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="93">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interface/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceDetectServer/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="e#640#672#0" expanded="true" />
+          </folding>
+
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/templates/interface/qrcode.html">
+      <provider selected="true" editor-type-id="text-editor">
+
+        <state relative-caret-position="729">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="186">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/interface/templates/interface/Pictures_Save.html">
       <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="73">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
@@ -398,24 +911,56 @@
           <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
           <folding>
             <element signature="e#92#120#0" expanded="true" />
-          </folding>
+=======
+        <state relative-caret-position="1023">
+          <caret line="33" column="37" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface/views.py">
+    <entry file="file://$PROJECT_DIR$/interface/static/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceDetect/Process.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface/InfoGenerate.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="118" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#100#113#0" expanded="true" />
+      </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataSet/PICS/stu_20164859/img.1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FaceDetect/Process.py">
+      <provider selected="true" editor-type-id="text-editor">
+
         <state relative-caret-position="-459">
           <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+=======
+        <state relative-caret-position="130">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" /
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+
     <entry file="file://$PROJECT_DIR$/FaceDetectServer/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+=======
+    <entry file="file://$PROJECT_DIR$/DataSet/MODELS/Stu_20164859.yml">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="124">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+
         </state>
       </provider>
     </entry>
