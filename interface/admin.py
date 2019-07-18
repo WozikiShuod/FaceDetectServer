@@ -1,7 +1,5 @@
 from django.contrib import admin
-from .models import Teacher,Student,Course,Train
-from django.utils.html import format_html
-
+from .models import Teacher,Student,Course
 # Register your models here.
 
 
@@ -19,18 +17,6 @@ class CourseAdmin(admin.ModelAdmin):
     list_filter = ('course','classroom','teacher_info')
 
 
-class TrainAdmin(admin.ModelAdmin):
-    list_display = ('tran_stu_id', 'operator')
-
-    def operator(self, obj):
-        return format_html(
-            '<a href="{}">训练</a>',
-            obj.tran_stu_id
-        )
-    operator.short_description = '操作'
-
-
 admin.site.register(Teacher,TeacherAdmin)
 admin.site.register(Student,StudentAdmin)
 admin.site.register(Course,CourseAdmin)
-admin.site.register(Train,TrainAdmin)

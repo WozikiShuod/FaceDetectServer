@@ -8,7 +8,8 @@
 <a>选择上传的图片</a>
 <form action="./" method="POST" enctype="multipart/form-data">
     {% csrf_token %}
-    姓名：<input type="text" name="username"><br>
+    学号：<input type="text" name="userid"><br>
+    班级：<input type="text" name="class"><br>
     图片:<input type="file" name="photo" multiple><br>
     <input type="submit">
 </form>
